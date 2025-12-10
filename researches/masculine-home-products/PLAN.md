@@ -51,15 +51,61 @@ Analyser les vidéos de la chaîne YouTube "The Masculine Home" pour extraire to
 ---
 
 ### Étape 4 : Recherche des produits et création du tableau
-**Statut** : ✅ Terminé
+**Statut** : ✅ Terminé (première phase)
 
 **Informations collectées** :
-- 22 produits identifiés avec liens d'achat
-- 6 catégories : Mobilier, Tapis, Éclairage, Textile, Bougie, Bar
-- Prix de 20€ à 2480€
+- 85+ produits identifiés avec liens d'achat
+- 10 catégories : Mobilier, Tapis, Éclairage, Textile, Bougie, Bar, Déco, Plantes, Peintures, Matériaux
+- Prix de 12€ à 2480€
 - Tous livrables en France
 
 **Fichier de sortie** : `products-table.md`
+
+---
+
+### Étape 5 : Compléter les produits manquants
+**Statut** : ✅ Terminé
+
+**Produits ajoutés** :
+
+#### BOUGIES (2 produits) ✅
+- [x] Bougie Balsam & Cedar - Notino - Milkhouse Candle
+- [x] Bougie Fresh Cut Pine - Durance
+
+#### VERDURE NATURELLE (5 produits) ✅
+- [x] Branches eucalyptus séché - France Fleurs
+- [x] Branches sapin naturel - Sapins-Noel.fr
+- [x] Branches olivier décoration - France Fleurs
+- [x] Pommes de pin naturelles - Zôdio
+- [x] Branches magnolia artificiel - Artiplantes
+
+#### DÉCORATION (7 produits) ✅
+- [x] Boîte bois sculpté - Etsy France
+- [x] Cloche antique laiton - Materiaux Anciens Bidal
+- [x] Livres reliés cuir - La Librairie Antique
+- [x] Serre-livres tête de cheval - Maisons du Monde
+- [x] Serre-livres colonne corinthien - De Bejarry
+- [x] Boussole vintage laiton - Les Baroudeurs
+
+#### BAR ACCESSOIRES (4 produits) ✅
+- [x] Match striker - Amazon.fr
+- [x] Porte-bouteille cuir vin - So-BBQ
+- [x] Serviettes lin table - Le Jacquard Français
+- [x] Tire-bouchon manche bois - Ligne W Prestige
+
+#### TEXTILES (1 produit) ✅
+- [x] Rideaux lin naturel - La Draperie Française
+
+#### REVÊTEMENTS MURAUX (3 produits) ✅
+- [x] Fausses poutres plafond espresso - ExpertDecor
+- [x] Papier peint lin grasscloth - La Maison Bineau
+- [x] Papier peint effet cuir - 4Murs
+
+#### ACCESSOIRES PERSONNELS (2 produits) ✅
+- [x] Vide-poche bois plateau - Faugier France
+- [x] Carnet cuir avec stylo - Louise Carmen
+
+**Total produits ajoutés** : 24
 
 ---
 
