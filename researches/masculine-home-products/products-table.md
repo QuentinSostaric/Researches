@@ -23,6 +23,7 @@
 | Draps 300-600 TC | "300 to 600 thread count sheets" | 80 € | [Bedrooms WRONG](https://youtu.be/KPF3dHPV5bo?t=450) 07:30 | [La Redoute](https://www.laredoute.fr/lndng/ctlg.aspx?artcl=draps+percale+400+fils) |
 | Couette duvet | "Down comforter or duvet, adds warmth and depth" | 150 € | [Bedrooms WRONG](https://youtu.be/KPF3dHPV5bo?t=460) 07:40 | [Dodo](https://www.dodo.fr/couettes/couettes-naturelles/) |
 | Euro pillows décoratifs | "Two to three Euro pillows, a good start" | 45 € | [Bedrooms WRONG](https://youtu.be/KPF3dHPV5bo?t=470) 07:50 | [Amazon.fr](https://www.amazon.fr/s?k=euro+pillow+65x65) |
+| Rideaux lin naturel | "Linen drapery on windows" | 89 € | [Design Move](https://youtu.be/XnSLN5zKs_Y?t=180) 03:00 | [La Draperie Française](https://ladraperiefrancaise.com/boutique/accessoires-deco-en-lin/rideaux-en-lin-naturel-pour-interieur-boheme-chic/) |
 
 ---
 
@@ -35,6 +36,8 @@
 | Bougie Tobacco & Amber | "Library at night, darker woods" | 30 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=240) 04:00 | [AUGET L'Artiste](https://amazon.fr/AUGET-Bougie-parfumée-LArtiste-Combustion/dp/B087KQQ4L8) |
 | Bougie Whiskey & Smoked Wood | "Subtle smoke goes well with a bar cart" | 20 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=240) 04:00 | [Zippo](https://www.lecomptoiramericain.com/en/scented-candles/2037-whiskey-tobacco-zippo-spirit-candle-single-made-in-usa.html) |
 | Bougie Tobacco Vanilla crackling | "Sound creates illusion of fireplace" | 24 € | [Whiskey Lounge](https://youtu.be/yzdNi_Rfv2o?t=150) 02:30 | [Zig Zag Island](https://zigzagisland.fr/produit/bougie-en-pot-dapothicaire-the-english-book-club-senteur-cuir-et-tabac-made-in-lille/) |
+| Bougie Balsam & Cedar | "Good for steady winter backdrop" | 35 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=240) 04:00 | [Notino - Milkhouse Candle](https://www.notino.fr/milkhouse-candle-co/farmhouse-balsam-cedar-bougie-parfumee/) |
+| Bougie Fresh Cut Pine sapin | "Amplify Christmas tree presence" | 25 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=240) 04:00 | [Durance - Au pied du Sapin](https://www.durance.fr/bougie-sapin.html) |
 
 ---
 
@@ -111,6 +114,10 @@
 | Humidor 75 cigares | "75-count humidor holds the core collection" | 150 € | [Speakeasy Van](https://youtu.be/48J74sQg4h8?t=420) 07:00 | [Amazon.fr](https://www.amazon.fr/s?k=humidor+75+cigares) |
 | Humidor executive box | "Executive box humidor on top" | 80 € | [Speakeasy Van](https://youtu.be/48J74sQg4h8?t=430) 07:10 | [Amazon.fr](https://www.amazon.fr/s?k=humidor+cigare+luxe) |
 | Mini fridge 62 canettes | "Mini fridge holds 62 12oz cans" | 200 € | [Speakeasy Van](https://youtu.be/48J74sQg4h8?t=380) 06:20 | [Amazon.fr](https://www.amazon.fr/s?k=mini+frigo+62+canettes) |
+| Match striker porte-allumettes | "Match striker and candle" | 15 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=330) 05:30 | [Amazon.fr](https://www.amazon.fr/match-striker/s?k=match+striker) |
+| Porte-bouteille cuir vin | "Single bottle in a leather tote" | 40 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=330) 05:30 | [So-BBQ Tango](https://so-bbq.com/produit/porte-bouteilles/) |
+| Serviettes lin table | "Linen napkins" | 25 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=330) 05:30 | [Le Jacquard Français](https://www.le-jacquard-francais.com/table-linen/napkins/) |
+| Tire-bouchon manche bois luxe | "Wood-handled corkscrew" | 45 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=330) 05:30 | [Ligne W Prestige](https://les3x8.com/sommeliers-tire-bouchons/754-tire-bouchon-luxe-l-origine-prestige-en-bois-d-olivier.html) |
 
 ---
 
@@ -132,6 +139,12 @@
 | Cadre large noir/or/bois | "Wide black, gold, or wood frame, avoid skinny mass-produced" | 80 € | [Room Unfinished](https://youtu.be/Qex_4PquQ-0?t=260) 04:20 | [Desenio](https://desenio.fr/fr/cadres/) |
 | Vinyles collection murale | "Vinyl records as decor" | 20 € | [Home Comfortable](https://youtu.be/q8yx0CBT3PI?t=240) 04:00 | [Fnac Vinyles](https://www.fnac.com/Vinyle/) |
 | Caméras vintage décoratives | "Vintage cameras as collectibles" | 50 € | [Home Comfortable](https://youtu.be/q8yx0CBT3PI?t=250) 04:10 | [Leboncoin](https://www.leboncoin.fr/recherche?text=appareil+photo+vintage) |
+| Boîte bois sculpté décorative | "Carved wooden boxes" | 35 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=540) 09:00 | [Etsy France](https://www.etsy.com/fr/market/bo%C3%AEte_en_bois_sculpt%C3%A9) |
+| Cloche antique laiton | "Antique bells" | 45 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=540) 09:00 | [Materiaux Anciens Bidal](https://www.materiaux-anciens-bidal.com/en/category/91/cloches-anciennes) |
+| Livres reliés cuir décoration | "Leather-bound books stacked horizontally" | 30 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=540) 09:00 | [La Librairie Antique](https://www.leslivresanciens.fr/catalogue-de-livres-anciens/reliures-livres-anciens-cuir-pour-decoration-interieur-vitrine-cinema-10-m/) |
+| Serre-livres tête de cheval | "Horse heads bookends" | 39 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=540) 09:00 | [Maisons du Monde](https://www.maisonsdumonde.com/FR/fr/p/serre-livres-tete-de-cheval-en-resine-marron-cheval-M21001616.htm) |
+| Serre-livres colonne corinthien | "Corinthians bookends" | 50 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=540) 09:00 | [De Bejarry - Propylée](https://www.debejarry.com/produit-987-serre-livres-propylee-en-cristal) |
+| Boussole vintage laiton | "Vintage compass" | 27 € | [3 Rooms Wrong](https://youtu.be/vcdBVKyuhFE?t=465) 07:45 | [Les Baroudeurs](https://les-baroudeurs.com/products/boussole-vintage) |
 
 ---
 
@@ -146,6 +159,18 @@
 | Olivier artificiel | "Olive tree, hint of Mediterranean charm, relaxed airy style" | 90 € | [Home Comfortable](https://youtu.be/q8yx0CBT3PI?t=130) 02:10 | [Amazon.fr](https://www.amazon.fr/s?k=olivier+artificiel) |
 | Succulentes artificielles | "Perfect for desks, shelves, coffee tables, compact flexible" | 15 € | [Home Comfortable](https://youtu.be/q8yx0CBT3PI?t=150) 02:30 | [Amazon.fr](https://www.amazon.fr/s?k=succulentes+artificielles) |
 | Devil's Ivy artificiel | "Great for bookshelves, hanging planters, cascading look" | 20 € | [Home Comfortable](https://youtu.be/q8yx0CBT3PI?t=160) 02:40 | [Amazon.fr](https://www.amazon.fr/s?k=pothos+artificiel) |
+
+---
+
+## VERDURE NATURELLE
+
+| Produit | Description YouTuber | Prix | Vidéo | Lien |
+|---------|---------------------|------|-------|------|
+| Branches eucalyptus séché | "Natural botanicals, eucalyptus" | 18 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=420) 07:00 | [France Fleurs](https://www.francefleurs.com/441-eucalyptus-seches) |
+| Branches sapin naturel | "Cedar, Douglas fir" | 15 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=420) 07:00 | [Sapins-Noel.fr](https://www.sapins-noel.fr/branches-de-sapin-de-noel/) |
+| Branches olivier décoration | "Olive branches" | 12 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=420) 07:00 | [France Fleurs](https://www.francefleurs.com/livraison-fleurs-feuillages/6329-olivier.html) |
+| Pommes de pin naturelles x16 | "Natural pine cones" | 8 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=420) 07:00 | [Zôdio](https://www.zodio.fr/sachet-de-16-pommes-de-pin-naturelles.html) |
+| Branches magnolia artificiel | "Magnolia leaves" | 25 € | [Christmas Home](https://youtu.be/p0Kf4gpGX28?t=420) 07:00 | [Artiplantes](https://www.artiplantes.fr/662-branche-magnolia-artificielle.html) |
 
 ---
 
@@ -166,6 +191,9 @@
 | Papier peint grasscloth | "Grasscloth wallpaper" | 60 €/roul | [3 Rooms Wrong](https://youtu.be/vcdBVKyuhFE?t=420) 07:00 | [Amazon.fr](https://www.amazon.fr/s?k=papier+peint+grasscloth) |
 | Moulures crown stained wood | "Stained wood crown molding, baseboards, wood casings" | 25 €/ml | [Room Every Gentleman Wants](https://youtu.be/JTyb1uAIlDE?t=260) 04:20 | [Leroy Merlin](https://www.leroymerlin.fr/produits/menuiserie/moulures/) |
 | Murale plafond sunset amber | "Warm amber mural of sky during sunset on ceiling" | 200 € | [Speakeasy Van](https://youtu.be/48J74sQg4h8?t=120) 02:00 | [Photowall](https://www.photowall.fr/poster-muraux/ciel) |
+| Fausses poutres plafond espresso | "Real or faux ceiling beams, stain in espresso oak" | 50 €/ml | [Design Move](https://youtu.be/XnSLN5zKs_Y?t=180) 03:00 | [ExpertDecor](https://www.expertdecor.fr/decoration/poutres-en-polyurethane/) |
+| Papier peint lin grasscloth | "Linen wallpaper" | 137 € | [3 Rooms Wrong](https://youtu.be/vcdBVKyuhFE?t=420) 07:00 | [La Maison Bineau - Nobilis](https://www.lamaisonbineau.fr/papier-peint-lin_1.html) |
+| Papier peint effet cuir | "Leather wallpaper" | 45 € | [3 Rooms Wrong](https://youtu.be/vcdBVKyuhFE?t=420) 07:00 | [4Murs](https://www.4murs.com/collections/papier-peint-imitation-cuir) |
 
 ---
 
@@ -179,6 +207,15 @@
 | Cuir véritable | "Genuine leather, more affordable, still durable, uniform finish" | Variable | [Choose Furniture](https://youtu.be/_j143FxzAr0?t=320) 05:20 | [Cuir Center](https://www.cuircenter.com/) |
 | Acier/Laiton finitions | "Steel or brass are strong, outlast plastic or cheap aluminum" | Variable | [Choose Furniture](https://youtu.be/_j143FxzAr0?t=90) 01:30 | [ManoMano](https://www.manomano.fr/) |
 | Verre trempé surfaces | "Tempered glass and stone resist cracks and scratches" | Variable | [Choose Furniture](https://youtu.be/_j143FxzAr0?t=100) 01:40 | [Leroy Merlin](https://www.leroymerlin.fr/) |
+
+---
+
+## ACCESSOIRES PERSONNELS
+
+| Produit | Description YouTuber | Prix | Vidéo | Lien |
+|---------|---------------------|------|-------|------|
+| Vide-poche bois plateau | "Wood tray for watch, cufflinks" | 35 € | [3 Rooms Wrong](https://youtu.be/vcdBVKyuhFE?t=465) 07:45 | [Faugier France](http://www.faugierfrance.com/ceintures-et-accessoires/90-plateau-vide-poche.html) |
+| Carnet cuir avec stylo | "Leather notebook and pen" | 85 € | [3 Rooms Wrong](https://youtu.be/vcdBVKyuhFE?t=465) 07:45 | [Louise Carmen](https://louisecarmen.com/products/pocket-cuir-heritage) |
 
 ---
 
@@ -252,4 +289,4 @@
 ---
 
 *Dernière mise à jour : 10 décembre 2024*
-*40 vidéos analysées • 85+ produits listés*
+*40 vidéos analysées • 110+ produits listés (24 nouveaux ajoutés)*
